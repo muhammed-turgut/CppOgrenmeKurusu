@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\8.AritmatikAtamaOperat\u00F6rleri.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|solutionrelative:CppKursu\\8.AritmatikAtamaOperat\u00F6rleri.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\4.i\u0130ElseOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|solutionrelative:CppKursu\\4.i\u0130ElseOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\1.EkranaYaz\u0131Yazma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|solutionrelative:CppKursu\\1.EkranaYaz\u0131Yazma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\3.\u0130fElseOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|solutionrelative:CppKursu\\3.\u0130fElseOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.i\u0130ElseOrnek.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\4.i\u0130ElseOrnek.cpp",
+              "RelativeDocumentMoniker": "CppKursu\\4.i\u0130ElseOrnek.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\4.i\u0130ElseOrnek.cpp",
+              "RelativeToolTip": "CppKursu\\4.i\u0130ElseOrnek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T10:41:43.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "1.EkranaYaz\u0131Yazma.cpp",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\1.EkranaYaz\u0131Yazma.cpp",
-              "RelativeDocumentMoniker": "CppKursu\\1.EkranaYaz\u0131Yazma.cpp",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\1.EkranaYaz\u0131Yazma.cpp",
-              "RelativeToolTip": "CppKursu\\1.EkranaYaz\u0131Yazma.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "3.\u0130fElseOrnek.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\3.\u0130fElseOrnek.cpp",
+              "RelativeDocumentMoniker": "CppKursu\\3.\u0130fElseOrnek.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\3.\u0130fElseOrnek.cpp",
+              "RelativeToolTip": "CppKursu\\3.\u0130fElseOrnek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T12:26:39.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "8.AritmatikAtamaOperat\u00F6rleri.cpp",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\8.AritmatikAtamaOperat\u00F6rleri.cpp",
-              "RelativeDocumentMoniker": "CppKursu\\8.AritmatikAtamaOperat\u00F6rleri.cpp",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\8.AritmatikAtamaOperat\u00F6rleri.cpp",
-              "RelativeToolTip": "CppKursu\\8.AritmatikAtamaOperat\u00F6rleri.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-27T11:26:59.416Z",
+              "WhenOpened": "2024-10-06T10:24:29.367Z",
               "EditorCaption": ""
             }
           ]

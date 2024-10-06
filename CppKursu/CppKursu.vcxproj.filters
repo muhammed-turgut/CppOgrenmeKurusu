@@ -13,31 +13,85 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\1.Operatörler">
+      <UniqueIdentifier>{200b6a3f-ed6f-448a-be0a-d55d72a1fb7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\1.Operatörler\Egzersizler">
+      <UniqueIdentifier>{89f8a1a1-35a3-46f8-9e4c-afeb746338f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2.Koşulluİfadeler">
+      <UniqueIdentifier>{a953478d-e6ae-484f-a816-3e49f6560e16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2.Koşulluİfadeler\1.IfElseYapısı">
+      <UniqueIdentifier>{ddb07243-67b9-455c-83e4-8052fcd72b7d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.EkranaYazıYazma.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\1.Operatörler</Filter>
     </ClCompile>
-    <ClCompile Include="2.Değişkenler.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="TernaryOperatör.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
     </ClCompile>
-    <ClCompile Include="3.KullanıcıdanDeğerAlma.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="sizeofFonksiyonu.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
     </ClCompile>
-    <ClCompile Include="4.KullanicidanAlinanIkiDegerinToplanmasi.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="KarsilastirmaOperatorleri.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
     </ClCompile>
-    <ClCompile Include="5.SapitDeğerler.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="6.Operatörler.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="7.TipDönüşümü.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="mantiksalOperatorler.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
     </ClCompile>
     <ClCompile Include="8.AritmatikAtamaOperatörleri.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\1.Operatörler</Filter>
+    </ClCompile>
+    <ClCompile Include="BirKarakterinASCITablosundakiDegeri.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
+    </ClCompile>
+    <ClCompile Include="7.TipDönüşümü.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Operatörler.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
+    </ClCompile>
+    <ClCompile Include="4.KullanicidanAlinanIkiDegerinToplanmasi.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
+    </ClCompile>
+    <ClCompile Include="5.SapitDeğerler.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
+    </ClCompile>
+    <ClCompile Include="3.KullanıcıdanDeğerAlma.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Değişkenler.cpp">
+      <Filter>Source Files\1.Operatörler</Filter>
+    </ClCompile>
+    <ClCompile Include="1.EkranaYazıYazmaEgzersiz.cpp">
+      <Filter>Source Files\1.Operatörler\Egzersizler</Filter>
+    </ClCompile>
+    <ClCompile Include="2.KullanıcıdansGirdiAlama.cpp">
+      <Filter>Source Files\1.Operatörler\Egzersizler</Filter>
+    </ClCompile>
+    <ClCompile Include="3.BolumveKalanBulma.cpp">
+      <Filter>Source Files\1.Operatörler\Egzersizler</Filter>
+    </ClCompile>
+    <ClCompile Include="4.SayiYerDegistirme.cpp">
+      <Filter>Source Files\1.Operatörler\Egzersizler</Filter>
+    </ClCompile>
+    <ClCompile Include="5.AlanHesabı.cpp">
+      <Filter>Source Files\1.Operatörler\Egzersizler</Filter>
+    </ClCompile>
+    <ClCompile Include="1.ifelseYapısı.cpp">
+      <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
+    </ClCompile>
+    <ClCompile Include="2.IfElseElseIfElseYapısı.cpp">
+      <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
+    </ClCompile>
+    <ClCompile Include="3.İfElseOrnek.cpp">
+      <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
+    </ClCompile>
+    <ClCompile Include="4.iİElseOrnek.cpp">
+      <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
