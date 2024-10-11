@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\4.i\u0130ElseOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|solutionrelative:CppKursu\\4.i\u0130ElseOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\2.ForDongusuOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|solutionrelative:CppKursu\\2.ForDongusuOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\3.\u0130fElseOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|solutionrelative:CppKursu\\3.\u0130fElseOrnek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\1.fordongusu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4175FC7-0ACD-47CA-A41E-583E8BB051B0}|CppKursu\\CppKursu.vcxproj|solutionrelative:CppKursu\\1.fordongusu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "4.i\u0130ElseOrnek.cpp",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\4.i\u0130ElseOrnek.cpp",
-              "RelativeDocumentMoniker": "CppKursu\\4.i\u0130ElseOrnek.cpp",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\4.i\u0130ElseOrnek.cpp*",
-              "RelativeToolTip": "CppKursu\\4.i\u0130ElseOrnek.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Title": "2.ForDongusuOrnek.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\2.ForDongusuOrnek.cpp",
+              "RelativeDocumentMoniker": "CppKursu\\2.ForDongusuOrnek.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\2.ForDongusuOrnek.cpp*",
+              "RelativeToolTip": "CppKursu\\2.ForDongusuOrnek.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-06T10:41:43.678Z",
+              "WhenOpened": "2024-10-08T12:11:46.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "3.\u0130fElseOrnek.cpp",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\3.\u0130fElseOrnek.cpp",
-              "RelativeDocumentMoniker": "CppKursu\\3.\u0130fElseOrnek.cpp",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\3.\u0130fElseOrnek.cpp",
-              "RelativeToolTip": "CppKursu\\3.\u0130fElseOrnek.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Title": "1.fordongusu.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\1.fordongusu.cpp",
+              "RelativeDocumentMoniker": "CppKursu\\1.fordongusu.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\Projeler\\Visul Studio 2022\\CppOgrenmeKursu\\CppKursu\\1.fordongusu.cpp",
+              "RelativeToolTip": "CppKursu\\1.fordongusu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-06T10:24:29.367Z",
+              "WhenOpened": "2024-10-08T12:05:40.488Z",
               "EditorCaption": ""
             }
           ]

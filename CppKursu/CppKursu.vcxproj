@@ -127,9 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2.ForDongusuOrnek.cpp" />
     <ClCompile Include="3.İfElseOrnek.cpp" />
     <ClCompile Include="4.iİElseOrnek.cpp" />
     <ClCompile Include="5.AlanHesabı.cpp" />
+    <ClCompile Include="5.ifElseOrnek.cpp" />
+    <ClCompile Include="6.IfElseOrnek.cpp" />
     <ClCompile Include="8.AritmatikAtamaOperatörleri.cpp" />
     <ClCompile Include="4.KullanicidanAlinanIkiDegerinToplanmasi.cpp" />
     <ClCompile Include="3.KullanıcıdanDeğerAlma.cpp" />
@@ -138,16 +141,19 @@
     <ClCompile Include="6.Operatörler.cpp" />
     <ClCompile Include="5.SapitDeğerler.cpp" />
     <ClCompile Include="7.TipDönüşümü.cpp" />
+    <ClCompile Include="8.SwitcCaseOrenk.cpp" />
     <ClCompile Include="BirKarakterinASCITablosundakiDegeri.cpp" />
     <ClCompile Include="3.BolumveKalanBulma.cpp" />
     <ClCompile Include="1.EkranaYazıYazmaEgzersiz.cpp" />
     <ClCompile Include="2.IfElseElseIfElseYapısı.cpp" />
     <ClCompile Include="1.ifelseYapısı.cpp" />
+    <ClCompile Include="1.fordongusu.cpp" />
     <ClCompile Include="KarsilastirmaOperatorleri.cpp" />
     <ClCompile Include="2.KullanıcıdansGirdiAlama.cpp" />
     <ClCompile Include="mantiksalOperatorler.cpp" />
     <ClCompile Include="4.SayiYerDegistirme.cpp" />
     <ClCompile Include="sizeofFonksiyonu.cpp" />
+    <ClCompile Include="7.SwitchCaseYapıisi.cpp" />
     <ClCompile Include="TernaryOperatör.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

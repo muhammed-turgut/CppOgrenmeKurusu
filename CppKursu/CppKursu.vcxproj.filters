@@ -25,6 +25,9 @@
     <Filter Include="Source Files\2.Koşulluİfadeler\1.IfElseYapısı">
       <UniqueIdentifier>{ddb07243-67b9-455c-83e4-8052fcd72b7d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\3.DöngüYapilari">
+      <UniqueIdentifier>{beb4a901-fd83-4aa6-a28a-a6d77f56b888}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.EkranaYazıYazma.cpp">
@@ -92,6 +95,24 @@
     </ClCompile>
     <ClCompile Include="4.iİElseOrnek.cpp">
       <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
+    </ClCompile>
+    <ClCompile Include="5.ifElseOrnek.cpp">
+      <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
+    </ClCompile>
+    <ClCompile Include="6.IfElseOrnek.cpp">
+      <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
+    </ClCompile>
+    <ClCompile Include="7.SwitchCaseYapıisi.cpp">
+      <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
+    </ClCompile>
+    <ClCompile Include="8.SwitcCaseOrenk.cpp">
+      <Filter>Source Files\2.Koşulluİfadeler\1.IfElseYapısı</Filter>
+    </ClCompile>
+    <ClCompile Include="1.fordongusu.cpp">
+      <Filter>Source Files\3.DöngüYapilari</Filter>
+    </ClCompile>
+    <ClCompile Include="2.ForDongusuOrnek.cpp">
+      <Filter>Source Files\3.DöngüYapilari</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
